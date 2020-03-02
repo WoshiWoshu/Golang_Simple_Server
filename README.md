@@ -83,3 +83,8 @@ Same as the static file/directory servers adding a layer of security with the he
 ## Credit
 
 Full tutorial can be found here : https://tutorialedge.net/golang/creating-simple-web-server-with-golang/
+
+![Image description](./exemple/hello_world.png)
+![Image description](./exemple/master_yoda.png)
+![Image description](./exemple/navigation_root.png)
+![Image description](./exemple/web_page_template.png.png)
