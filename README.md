@@ -79,3 +79,7 @@ Same as the static file/directory servers adding a layer of security with the he
 `openssl req -new -x509 -sha256 -key server.key -out server.crt -days 3650` (private infos)
 
 * Exemple : `https://localhost:8083`
+
+## Credit
+
+Full tutorial can be found here : https://tutorialedge.net/golang/creating-simple-web-server-with-golang/
