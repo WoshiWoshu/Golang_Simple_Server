@@ -1,6 +1,6 @@
 # Golang_Simple_Server
 Mini project written in Go consisting of a Golang basic server which can respond to clients URL requests and send back informations as datas, files and html rendering.
-The server is split into small server units holding their own functionalities. It is using "net/http" package and can be fully secured with the help of HTTPS/HTTP over TLS.
+The server is split into small servers units holding their own functionalities. It is using "net/http" package and can be fully secured with the help of HTTPS/HTTP over TLS.
 
 ### Requirements
 
