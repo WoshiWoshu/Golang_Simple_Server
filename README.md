@@ -87,4 +87,4 @@ Full tutorial can be found here : https://tutorialedge.net/golang/creating-simpl
 ![Image description](./exemple/hello_world.png)
 ![Image description](./exemple/master_yoda.png)
 ![Image description](./exemple/navigation_root.png)
-![Image description](./exemple/web_page_template.png.png)
+![Image description](./exemple/web_page_template.png)
